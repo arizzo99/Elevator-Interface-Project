@@ -1,10 +1,11 @@
 # Elevator-Interface-Project
 
-![image](https://user-images.githubusercontent.com/78623678/193858372-b0afbdcb-04cd-4309-a3b0-a1ffa3b5a2e0.png) ![IMG-0777](https://user-images.githubusercontent.com/78623678/193860573-49fb53f3-2c27-49b7-b62e-0d7818d55a9c.png)
+![image](https://user-images.githubusercontent.com/78623678/193858372-b0afbdcb-04cd-4309-a3b0-a1ffa3b5a2e0.png) 
 
 
 
 
+![IMG-0777](https://user-images.githubusercontent.com/78623678/193860994-625e0a61-2043-45d0-9443-119e49219480.png)
 
 - VISIBILITY – : My design meets the principle of visibility because all available functions are clear to see. The floor buttons, which are to most frequently used, are large and labeled in a large, bold font, making them easy to spot. The directions for canceling floors are also large and clearly marked. 
 
