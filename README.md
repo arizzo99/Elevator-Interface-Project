@@ -7,6 +7,10 @@
 ![Screenshot (16)](https://user-images.githubusercontent.com/78623678/193861918-1c6972cb-99a6-4296-81f0-2cd78fe956ea.png)
 
 
+
+![IMB-vnJexg](https://user-images.githubusercontent.com/78623678/193863150-2018dce8-bf26-45f0-93ad-d4c582ed602e.GIF)
+
+
 - VISIBILITY – : My design meets the principle of visibility because all available functions are clear to see. The floor buttons, which are to most frequently used, are large and labeled in a large, bold font, making them easy to spot. The directions for canceling floors are also large and clearly marked. 
 
    - FEEDBACK – The user presses the button embossed with the floor number they wish to visit. The button lights up, indicating to the user that they will be stopping at their desired floor. All buttons light up upon being selected, which is an excellent example of feedback. Also, because it is a physical button and not a touchscreen, the user can feel the button recede back into the panel as they click it. Having two instances of feedback for a selection exceeds this principle. 
