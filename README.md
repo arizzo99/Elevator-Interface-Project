@@ -4,7 +4,8 @@
 
 
 
-![Screenshot (16)](https://user-images.githubusercontent.com/78623678/193861606-f7d68370-aee7-492e-87a6-40ae115692d0.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/78623678/193861918-1c6972cb-99a6-4296-81f0-2cd78fe956ea.png)
+
 
 - VISIBILITY – : My design meets the principle of visibility because all available functions are clear to see. The floor buttons, which are to most frequently used, are large and labeled in a large, bold font, making them easy to spot. The directions for canceling floors are also large and clearly marked. 
 
